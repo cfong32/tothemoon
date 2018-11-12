@@ -1,0 +1,8 @@
+﻿<flash_project name="OrbitF" version="1">
+    <project_file path="./main.fla" filetype="fla" profile="" />
+    <project_file path="./Satellite.as" filetype="as" />
+    <project_file path="./Rocket.as" filetype="as" />
+    <project_file path="./Law.as" filetype="as" />
+    <project_file path="./Start.as" filetype="as" />
+    <project_file path="./Rrocket.as" filetype="as" />
+</flash_project>
